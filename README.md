@@ -10,10 +10,9 @@ Dentre os requisitos, temos:
 
 ## Desenvolvedores
 
- - [Aydan Amorim](https://github.com/AydanAmorim)
- - [Danilo Faccio](https://github.com/DFaccio)
- - [Erick Ribeiro](https://github.com/erickmatheusribeiro)
- - [Isabela França](https://github.com/fysabelah)
+- Guilherme Nascimento
+- Helio Nascimento
+- Lucas Silva
 
 ## Configurações
 
